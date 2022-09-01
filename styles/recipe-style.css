@@ -1,0 +1,14 @@
+body {
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+.header,
+li {
+    text-align: left;
+}
+
+button {
+    font-size: 30px;
+    background-color:moccasin;
+}
